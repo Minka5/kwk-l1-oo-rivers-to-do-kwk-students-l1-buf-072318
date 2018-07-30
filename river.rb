@@ -8,12 +8,12 @@ def initialize(name)
 end
 
 def flood
-  @discharge =  @discharge * 1.3
+  @discharge =  @discharge * 130
 
 end
 
 def dry_up
-  @discharge = @discharge = 0.5
+  # @discharge = @discharge = 50
   
 end
 
