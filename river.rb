@@ -8,8 +8,8 @@ def initialize(name)
 end
 
 def flood
-  @discharge =  @discharge * 1.30
-   @discharge = @discharge - 8.0
+  @discharge =  @discharge * 130.0
+   @discharge = @discharge - 80.0
   
 end
 
