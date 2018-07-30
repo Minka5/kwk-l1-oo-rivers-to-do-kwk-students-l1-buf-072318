@@ -9,7 +9,7 @@ end
 
 def flood
   @discharge =  @discharge * 1.3
-   @discharge = @discharge -
+   
   
 end
 
