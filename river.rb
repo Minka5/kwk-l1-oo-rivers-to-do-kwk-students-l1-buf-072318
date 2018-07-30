@@ -9,7 +9,7 @@ end
 
 def flood
   @discharge =  @discharge * 130%
-  @discharge = @discharge - 80%
+  
   
    
   
